@@ -1,0 +1,30 @@
+[
+    {
+        "Title": "Old School",
+        "Author": "Steve Smith",
+        "Year": 1978,
+        "Genre": "friction",
+        "Read": false
+    },
+    {
+        "Title": "majorly rights",
+        "Author": "gaurav",
+        "Year": 2020,
+        "Genre": "History",
+        "Read": true
+    },
+    {
+        "Title": "yesterday",
+        "Author": "John Doe",
+        "Year": 1999,
+        "Genre": "old",
+        "Read": false
+    },
+    {
+        "Title": "general",
+        "Author": "anthony",
+        "Year": 1999,
+        "Genre": "friction",
+        "Read": true
+    }
+]
